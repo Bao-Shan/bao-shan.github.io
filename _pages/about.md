@@ -203,7 +203,7 @@ redirect_from:
   <article class="academic-timeline__item">
     <div class="academic-timeline__date">Sep 2024 – Present</div>
     <div class="academic-timeline__content">
-      <h3>Associate Professor (Youth Talent Program), Master's Supervisor</h3>
+      <h3>Associate Professor, Master's Supervisor</h3>
       <p class="academic-timeline__institution">School of Mathematical Sciences, Ocean University of China <span>Qingdao, China</span></p>
     </div>
   </article>
