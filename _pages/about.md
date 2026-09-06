@@ -174,7 +174,7 @@ redirect_from:
 
 <p>I am an Associate Professor at the School of Mathematical Sciences, Ocean University of China. I received my Ph.D. in Computational Mathematics from the same university in 2022, under the supervision of Prof. Wai Sun Don.</p>
 
-<p>My research spans high-order finite difference and finite volume WENO schemes, affine-invariant WENO operators, physical-constraints-preserving schemes for multi-material flows, and hyperbolic conservation laws on manifolds via the time-continuous embedding method.</p>
+<p>My research spans high-order finite difference and finite volume WENO schemes, affine-invariant WENO operators, physical-constraints-preserving schemes for multi-material flows, hyperbolic conservation laws on manifolds, and time-continuous embedding methods. I have published over 40 papers in leading journals including SIAM Journal on Scientific Computing, Journal of Computational Physics, and Journal of Scientific Computing.</p>
 
 <!-- ===== RESEARCH HIGHLIGHTS ===== -->
 <span class="anchor" id="research"></span>
@@ -219,6 +219,13 @@ redirect_from:
     <div class="academic-timeline__content">
       <h3>Shandong Provincial Qingchuang Science and Technology Project (PI)</h3>
       <p class="academic-timeline__institution">Physical-Constraints-Preserving Numerical Methods for Multi-Material Flow Models</p>
+    </div>
+  </article>
+  <article class="academic-timeline__item">
+    <div class="academic-timeline__date">2023–2024</div>
+    <div class="academic-timeline__content">
+      <h3>China Postdoctoral Science Foundation (PI, RMB 80,000)</h3>
+      <p class="academic-timeline__institution">Bound-preserving limiters for the two-medium six-equation model with Mie-Gruneisen EOS</p>
     </div>
   </article>
 </div>
@@ -370,11 +377,40 @@ redirect_from:
 
 <!-- ===== TECHNICAL SKILLS ===== -->
 <span class="anchor" id="skills"></span>
+<h1 id="technical-skills">Teaching</h1>
+<div class="visiting-list">
+  <article class="visiting-list__item">
+    <p class="visiting-list__date">Spring 2026</p>
+    <div>
+      <p>Complex Analysis (Undergraduate); Spectral Methods (Graduate)</p>
+    </div>
+  </article>
+  <article class="visiting-list__item">
+    <p class="visiting-list__date">Spring 2025</p>
+    <div>
+      <p>Complex Analysis (Undergraduate); Spectral Methods (Graduate)</p>
+    </div>
+  </article>
+  <article class="visiting-list__item">
+    <p class="visiting-list__date">Fall 2021</p>
+    <div>
+      <p>Mini-courses on Scientific Computing and Programming, Nonlinear Wave Equations</p>
+    </div>
+  </article>
+  <article class="visiting-list__item">
+    <p class="visiting-list__date">Spring 2020</p>
+    <div>
+      <p>Spectral Methods (Graduate)</p>
+    </div>
+  </article>
+</div>
+
+<!-- ===== TECHNICAL SKILLS ===== -->
+<span class="anchor" id="skills"></span>
 <h1 id="technical-skills">Technical Skills</h1>
 
 <ul>
   <li><strong>Programming:</strong> MATLAB, Fortran, LaTeX, Linux shell scripting.</li>
-  <li><strong>Research Interests:</strong> High-order WENO/AWENO schemes, affine-invariant operators, physical-constraints-preserving methods, surface PDEs, multi-material flows.</li>
   <li><strong>Other:</strong> Founder of WeChat public account "台劳公式" (3,100+ followers).</li>
 </ul>
 
