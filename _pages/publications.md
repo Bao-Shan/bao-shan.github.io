@@ -4,6 +4,147 @@ title: "Publications"
 author_profile: false
 ---
 
+<style>
+.home-hero {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 2rem;
+  margin: 1rem 0 2rem 0;
+  padding: 1rem 0;
+}
+.home-hero__text {
+  flex: 1.2;
+}
+.home-hero__eyebrow {
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: #6c757d;
+  margin-bottom: 0.25rem;
+}
+.home-hero__text h1 {
+  font-size: 2.8rem;
+  margin: 0.25rem 0 0.5rem 0;
+  font-weight: 400;
+}
+.home-hero__lead {
+  font-size: 1.2rem;
+  color: #3c3c3c;
+  margin-bottom: 0.75rem;
+}
+.home-hero__actions {
+  margin-top: 1rem;
+}
+.home-button {
+  display: inline-block;
+  padding: 0.5rem 1.2rem;
+  border: 1px solid #d1d1d1;
+  border-radius: 4px;
+  font-size: 0.9rem;
+  color: #333;
+  text-decoration: none;
+  margin-right: 0.5rem;
+  transition: all 0.2s;
+}
+.home-button:hover {
+  background-color: #f0f0f0;
+  border-color: #aaa;
+  text-decoration: none;
+}
+.home-button--primary {
+  background-color: #2a7ae2;
+  border-color: #2a7ae2;
+  color: white;
+}
+.home-button--primary:hover {
+  background-color: #1a5bbf;
+  border-color: #1a5bbf;
+  color: white;
+}
+.home-hero__image {
+  flex: 0.8;
+  text-align: center;
+}
+.home-hero__image img {
+  max-width: 100%;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+}
+.research-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1.5rem;
+  margin: 1rem 0;
+}
+.research-grid article {
+  background: #f8f9fa;
+  padding: 1.2rem 1.5rem;
+  border-radius: 6px;
+}
+.research-grid h3 {
+  margin-top: 0;
+  font-size: 1.1rem;
+}
+.academic-timeline {
+  margin: 1rem 0;
+}
+.academic-timeline__item {
+  display: flex;
+  gap: 1.5rem;
+  padding: 0.8rem 0;
+  border-bottom: 1px solid #eee;
+}
+.academic-timeline__date {
+  flex: 0 0 180px;
+  font-weight: 600;
+  color: #2a7ae2;
+}
+.academic-timeline__content {
+  flex: 1;
+}
+.academic-timeline__content h3 {
+  margin: 0 0 0.1rem 0;
+  font-size: 1.05rem;
+}
+.academic-timeline__institution {
+  margin: 0.1rem 0 0.3rem 0;
+  color: #555;
+  font-style: italic;
+}
+.academic-timeline__institution span {
+  color: #888;
+}
+.visiting-list {
+  margin: 1rem 0;
+}
+.visiting-list__item {
+  display: flex;
+  gap: 1.5rem;
+  padding: 0.8rem 0;
+  border-bottom: 1px solid #eee;
+}
+.visiting-list__date {
+  flex: 0 0 180px;
+  font-weight: 600;
+  color: #2a7ae2;
+}
+.anchor {
+  display: block;
+  position: relative;
+  top: -70px;
+  visibility: hidden;
+}
+@media (max-width: 768px) {
+  .home-hero { flex-direction: column; }
+  .academic-timeline__item { flex-direction: column; gap: 0.2rem; }
+  .visiting-list__item { flex-direction: column; gap: 0.2rem; }
+  .academic-timeline__date { flex: 1; }
+  .visiting-list__date { flex: 1; }
+}
+</style>
+
+
 (* denotes corresponding author; # denotes equal contribution; IF = Impact Factor)
 
 ## 2026
