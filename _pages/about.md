@@ -227,7 +227,7 @@ redirect_from:
     <div class="academic-timeline__date">Sep 2018 – Jun 2022</div>
     <div class="academic-timeline__content">
       <h3>Ph.D. in Computational Mathematics</h3>
-      <p class="academic-timeline__institution">Ocean University of China <span>Qingdao, China</span></p>
+      <p class="academic-timeline__institution">Ocean University of China, Qingdao, China</p>
       <p>Supervisor: Prof. Wai Sun Don.</p>
       <p>Thesis: <em>Physical-Constraints-Preserving High-Order WENO Schemes</em>.</p>
     </div>
@@ -236,7 +236,7 @@ redirect_from:
     <div class="academic-timeline__date">Sep 2015 – Jun 2018</div>
     <div class="academic-timeline__content">
       <h3>M.Sc. in Computational Mathematics</h3>
-      <p class="academic-timeline__institution">Ocean University of China <span>Qingdao, China</span></p>
+      <p class="academic-timeline__institution">Ocean University of China, Qingdao, China</p>
       <p>Supervisors: Prof. Zhen Gao &amp; Prof. Wai Sun Don.</p>
       <p>Thesis: <em>Radial Basis Function Based Shock Detection Algorithm and Its Application in High-Order Hybrid Schemes</em>.</p>
     </div>
@@ -245,7 +245,7 @@ redirect_from:
     <div class="academic-timeline__date">Aug 2011 – Jun 2015</div>
     <div class="academic-timeline__content">
       <h3>B.Sc. in Mathematics and Applied Mathematics</h3>
-      <p class="academic-timeline__institution">Ocean University of China <span>Qingdao, China</span></p>
+      <p class="academic-timeline__institution">Ocean University of China, Qingdao, China</p>
     </div>
   </article>
 </div>
@@ -267,7 +267,7 @@ redirect_from:
     <p class="visiting-list__date">Dec 2025 – Jan 2026</p>
     <div>
       <h3>Visiting Professor</h3>
-      <p><strong>Pohang University of Science and Technology (POSTECH)</strong> | Department of Mathematics</p>
+      <p><strong>Pohang University of Science and Technology</strong> | Department of Mathematics</p>
       <p>Hosts: Prof. Jae-Hun Jung &amp; Dr. Jiaxi Gu.</p>
     </div>
   </article>
