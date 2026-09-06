@@ -344,14 +344,14 @@ redirect_from:
 
 <!-- ===== SELECTED PRESENTATIONS ===== -->
 <span class="anchor" id="presentations"></span>
-<h1 id="selected-presentations">Selected Presentations</h1>
+<h1 id="selected-presentations">Selected Invited Talks</h1>
 
 <ul>
-  <li><strong>Invited Talk:</strong> "Foliation Structures and Global Flow Dynamics of Scalar Hyperbolic Conservation Laws on Manifolds," <a href="#">EASIAM 2026</a>, Jeju, South Korea, Aug 2026.</li>
-  <li><strong>Invited Talk:</strong> "High-Order Physical-Constraints-Preserving Velocity-Consistent Schemes for Compressible Multicomponent Five-Equation Model with the Mie-Gruneisen Equation of State," Kunming University of Science and Technology, Aug 2026.</li>
-  <li><strong>Invited Talk:</strong> "A Family of Bound-Preserving Velocity-Consistent Schemes for Two-Medium γ-Based Model with Stiffened Gas," <a href="#">CSIAM 2025 Annual Meeting</a>, Changsha, China, Oct 2025.</li>
-  <li><strong>Invited Talk:</strong> "Time-Continuous Embedding Method for Hyperbolic Conservation Laws on Manifolds," Hong Kong Baptist University, Nov 2024.</li>
-  <li><strong>Invited Talk:</strong> "Affine-Invariant WENO Operator and Applications in Solving Hyperbolic Conservation Laws," <a href="#">Workshop on Development of High-Order Methods for Hyperbolic PDEs</a>, SUSTech, Shenzhen, Mar 2024.</li>
+  <li>"Foliation Structures and Global Flow Dynamics of Scalar Hyperbolic Conservation Laws on Manifolds," <a href="#">EASIAM 2026</a>, Jeju, South Korea, Aug 2026.</li>
+  <li>"High-Order Physical-Constraints-Preserving Velocity-Consistent Schemes for Compressible Multicomponent Five-Equation Model with the Mie-Gruneisen Equation of State," Kunming University of Science and Technology, Aug 2026.</li>
+  <li>"A Family of Bound-Preserving Velocity-Consistent Schemes for Two-Medium γ-Based Model with Stiffened Gas," <a href="#">CSIAM 2025 Annual Meeting</a>, Changsha, China, Oct 2025.</li>
+  <li>"Time-Continuous Embedding Method for Hyperbolic Conservation Laws on Manifolds," Hong Kong Baptist University, Nov 2024.</li>
+  <li>"Affine-Invariant WENO Operator and Applications in Solving Hyperbolic Conservation Laws," <a href="#">Workshop on Development of High-Order Methods for Hyperbolic PDEs</a>, SUSTech, Shenzhen, Mar 2024.</li>
 </ul>
 
 <!-- ===== AWARDS AND SERVICE ===== -->
@@ -361,7 +361,7 @@ redirect_from:
 <ul>
   <li><strong>Shandong Provincial Excellent Doctoral Dissertation</strong> (2023).</li>
   <li><strong>National Scholarship for Doctoral Students</strong> (2021).</li>
-  <li><strong>Outstanding Graduate Students<strong> of Ocean University of China (Top 10, 2021).</li>
+  <li><strong>Outstanding Graduate Students</strong> of Ocean University of China (Top 10, 2021).</li>
   <li><strong>Shandong Provincial Excellent Master's Thesis</strong> (2019).</li>
   <li><strong>National Scholarship for Master's Students</strong> (2017).</li>
   <li><strong>National First Prize</strong>, Postgraduate Mathematical Contest in Modeling (2016).</li>
