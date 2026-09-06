@@ -1,7 +1,7 @@
 ---
 permalink: /publications/
 title: "Publications"
-author_profile: true
+author_profile: false
 ---
 
 (* denotes corresponding author; # denotes equal contribution; IF = Impact Factor)
