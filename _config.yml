@@ -23,8 +23,8 @@ baidu_site_verification  :  # Get from https://ziyuan.baidu.com/
 author:
   name             : "Bao-Shan Wang"
   avatar           : "images/baoshan.jpg"
-  bio              : "Associate Professor, School of Mathematical Sciences, Ocean University of China"
-  location         : "Qingdao, China"
+  bio              : "Associate Professor"
+  location         : "School of Mathematical Sciences"
   employer         : "Ocean University of China"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=TiPSLVsAAAAJ"
