@@ -368,8 +368,6 @@ redirect_from:
   <li><strong>Journal Referee</strong> for <em>Journal of Computational Physics</em> (29), <em>Applied Numerical Mathematics</em> (26), <em>Advances in Applied Mathematics and Mechanics</em> (10), <em>Communications in Nonlinear Science and Numerical Simulation</em> (6), <em>Computers &amp; Fluids</em> (6), and 19 other journals.</li>
 </ul>
 
-
-
 <!-- ===== TECHNICAL SKILLS ===== -->
 <span class="anchor" id="skills"></span>
 <h1 id="technical-skills">Technical Skills</h1>
