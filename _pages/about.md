@@ -149,7 +149,7 @@ redirect_from:
 </style>
 
 <!-- ===== HERO SECTION ===== -->
-<section class="home-hero" id="about-me">
+<section class="home-hero">
   <div class="home-hero__text">
     <p class="home-hero__eyebrow">High-Order Numerical Methods | Hyperbolic Conservation Laws | WENO Schemes</p>
     <h1>Bao-Shan Wang</h1>
@@ -168,7 +168,7 @@ redirect_from:
 </section>
 
 <!-- ===== ABOUT ===== -->
-<span class="anchor" id="about-me1"></span>
+<span class="anchor" id="about-me"></span>
 <h1 id="about-me">About Me</h1>
 
 <p>I am an Associate Professor at the School of Mathematical Sciences, Ocean University of China. I received my Ph.D. in Computational Mathematics from the same university in 2022, under the supervision of Prof. Wai Sun Don.</p>
