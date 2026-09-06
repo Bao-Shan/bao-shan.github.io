@@ -410,8 +410,8 @@ redirect_from:
 <h1 id="technical-skills">Technical Skills</h1>
 
 <ul>
-  <li><strong>Programming:</strong> MATLAB, Fortran, LaTeX, Linux shell scripting.</li>
-  <li><strong>Other:</strong> Founder of WeChat public account "台劳公式" (3,100+ followers).</li>
+  <li><strong>Programming:</strong> MATLAB, Fortran, LaTeX, Linux.</li>
+  <li><strong>WeChat public account</strong> "台劳公式" (3,100+ followers).</li>
 </ul>
 
 <!-- ===== PUBLICATIONS ===== -->
