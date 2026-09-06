@@ -382,10 +382,6 @@ redirect_from:
 <span class="anchor" id="publications"></span>
 <h1 id="publications">Selected Publications</h1>
 
-<!-- ===== PUBLICATIONS ===== -->
-<span class="anchor" id="publications"></span>
-<h1 id="publications">Publications</h1>
-
 <p>(* denotes corresponding author; # denotes equal contribution; IF = Impact Factor)</p>
 
 <ol>
