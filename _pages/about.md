@@ -389,7 +389,7 @@ redirect_from:
 <p>(* denotes corresponding author; # denotes equal contribution; IF = Impact Factor)</p>
 
 <ol>
-  <li>Changming Guo, <strong>Bao-Shan Wang</strong>#, Wai Sun Don#, &amp; Yuanyang Qiao#. <a href="https://doi.org/10.1016/j.jcp.2026.115049">High-order physical-constraints-preserving velocity-consistent schemes for compressible multicomponent five-equation model with the Mie-Gruneisen equation of state</a>. <em>Journal of Computational Physics</em>, 2026, 563, 115049. (IF: 3.8)</li>
+  <li>Changming Guo#, <strong>Bao-Shan Wang</strong>#, Wai Sun Don#, &amp; Yuanyang Qiao#. <a href="https://doi.org/10.1016/j.jcp.2026.115049">High-order physical-constraints-preserving velocity-consistent schemes for compressible multicomponent five-equation model with the Mie-Gruneisen equation of state</a>. <em>Journal of Computational Physics</em>, 2026, 563, 115049. (IF: 3.8)</li>
 
   <li>Ya-Ru Zhao, Zhen Gao, &amp; <strong>Bao-Shan Wang</strong>*. <a href="https://doi.org/10.1016/j.jcp.2025.114409">Fifth-order equilibrium-preserving path-conservative characteristic-wise AWENO scheme for one-fluid two-temperature Euler model</a>. <em>Journal of Computational Physics</em>, 2026, 544, 114409. (IF: 3.8)</li>
 
@@ -404,4 +404,4 @@ redirect_from:
   <li><strong>Bao-Shan Wang</strong>, Wai Sun Don*, Zhen Gao, Yinghua Wang, &amp; Xiao Wen. <a href="https://doi.org/10.1137/18M1166365">Hybrid Compact-WENO finite difference scheme with radial basis function based shock detection method for hyperbolic conservation laws</a>. <em>SIAM Journal on Scientific Computing</em>, 2018, 40(6), A3699–A3714. (IF: 2.31)</li>
 </ol>
 
-<p>For a complete list of publications, please visit my <a href="https://bao-shan.github.io/publications">Full Publications</a>, or <a href="https://scholar.google.com/citations?user=TiPSLVsAAAAJ">Google Scholar</a> or <a href="https://www.researchgate.net/profile/Baoshan-Wang">ResearchGate</a>, or .</p>
+<p>For a complete list of publications, please visit my <a href="./publications">Full Publications</a>, or <a href="https://scholar.google.com/citations?user=TiPSLVsAAAAJ">Google Scholar</a> or <a href="https://www.researchgate.net/profile/Baoshan-Wang">ResearchGate</a>, or .</p>
