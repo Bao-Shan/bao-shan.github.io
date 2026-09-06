@@ -451,3 +451,15 @@ redirect_from:
 <p></p>
 
 <p></p>
+
+<!-- ===== PUBLICATIONS ===== -->
+<span class="anchor" id="books"></span>
+<h1 id="publications">For Graduate</h1>
+
+<ul>
+  <li><strong>Commitment:</strong> My office is always open for discussions with students.</li>
+  <li><strong>Benefits:</strong> Competitive stipend, dedicated study space, high-performance computing workstation, and first-author credit for students' own work.</li>
+  <li><strong>What I Look For:</strong> Passion for research, perseverance, proactive communication, and a commitment to deliberate practice.</li>
+
+  <h2><strong>业精于勤，功不唐捐！</strong></h2>
+</ul>
