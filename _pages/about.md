@@ -195,6 +195,34 @@ redirect_from:
   </article>
 </div>
 
+<!-- ===== RESEARCH GRANTS ===== -->
+<span class="anchor" id="grants"></span>
+<h1 id="research-grants">Research Grants</h1>
+
+<div class="academic-timeline">
+  <article class="academic-timeline__item">
+    <div class="academic-timeline__date">2024–2026</div>
+    <div class="academic-timeline__content">
+      <h3>NSFC (PI, RMB 300,000)</h3>
+      <p class="academic-timeline__institution">Time-Continuous Closest Point Method for Hyperbolic Conservation Laws on Manifolds</p>
+    </div>
+  </article>
+  <article class="academic-timeline__item">
+    <div class="academic-timeline__date">2025–2027</div>
+    <div class="academic-timeline__content">
+      <h3>Startup Fund from OUC (PI, RMB 300,000)</h3>
+      <p class="academic-timeline__institution">High-Order Physical-Constraints-Preserving Numerical Methods for Multi-Material Flow Models under Extreme Conditions</p>
+    </div>
+  </article>
+  <article class="academic-timeline__item">
+    <div class="academic-timeline__date">2026–2028</div>
+    <div class="academic-timeline__content">
+      <h3>Shandong Provincial Qingchuang Science and Technology Project (PI)</h3>
+      <p class="academic-timeline__institution">Physical-Constraints-Preserving Numerical Methods for Multi-Material Flow Models</p>
+    </div>
+  </article>
+</div>
+
 <!-- ===== APPOINTMENTS ===== -->
 <span class="anchor" id="experience"></span>
 <h1 id="appointments">Appointments</h1>
@@ -306,7 +334,7 @@ redirect_from:
 </div>
 
 <!-- ===== CONFERENCE ORGANIZATION ===== -->
-<span class="anchor" id="conference-organization"></span>
+<span class="anchor" id="activities"></span>
 <h1 id="conference-organization">Conference Organization</h1>
 
 <ul>
@@ -340,33 +368,7 @@ redirect_from:
   <li><strong>Journal Referee</strong> for <em>Journal of Computational Physics</em> (29), <em>Applied Numerical Mathematics</em> (26), <em>Advances in Applied Mathematics and Mechanics</em> (10), <em>Communications in Nonlinear Science and Numerical Simulation</em> (6), <em>Computers &amp; Fluids</em> (6), and 19 other journals.</li>
 </ul>
 
-<!-- ===== RESEARCH GRANTS ===== -->
-<span class="anchor" id="grants"></span>
-<h1 id="research-grants">Research Grants</h1>
 
-<div class="academic-timeline">
-  <article class="academic-timeline__item">
-    <div class="academic-timeline__date">2024–2026</div>
-    <div class="academic-timeline__content">
-      <h3>NSFC (PI, RMB 300,000)</h3>
-      <p class="academic-timeline__institution">Time-Continuous Closest Point Method for Hyperbolic Conservation Laws on Manifolds</p>
-    </div>
-  </article>
-  <article class="academic-timeline__item">
-    <div class="academic-timeline__date">2025–2027</div>
-    <div class="academic-timeline__content">
-      <h3>Startup Fund from OUC (PI, RMB 300,000)</h3>
-      <p class="academic-timeline__institution">High-Order Physical-Constraints-Preserving Numerical Methods for Multi-Material Flow Models under Extreme Conditions</p>
-    </div>
-  </article>
-  <article class="academic-timeline__item">
-    <div class="academic-timeline__date">2026–2028</div>
-    <div class="academic-timeline__content">
-      <h3>Shandong Provincial Qingchuang Science and Technology Project (PI)</h3>
-      <p class="academic-timeline__institution">Physical-Constraints-Preserving Numerical Methods for Multi-Material Flow Models</p>
-    </div>
-  </article>
-</div>
 
 <!-- ===== TECHNICAL SKILLS ===== -->
 <span class="anchor" id="skills"></span>
