@@ -164,13 +164,13 @@ redirect_from:
     </p>
   </div>
   <div class="home-hero__image">
-    <img src="/images/profile.jpg" alt="Bao-Shan Wang" onerror="this.style.display='none'">
+    <img src="/images/baoshan.jpg" alt="Bao-Shan Wang" onerror="this.style.display='none'">
   </div>
 </section>
 
 <!-- ===== ABOUT ===== -->
 <span class="anchor" id="about-me"></span>
-<h1 id="about-me">About Me</h1>
+<h1 id="about-me">About</h1>
 
 <p>I am an Associate Professor (Youth Talent Program) and Master's Supervisor at the School of Mathematical Sciences, Ocean University of China. I received my Ph.D. in Computational Mathematics from the same university in 2022, under the supervision of Prof. Wai Sun Don.</p>
 
