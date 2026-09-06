@@ -380,11 +380,13 @@ redirect_from:
 
 <!-- ===== PUBLICATIONS ===== -->
 <span class="anchor" id="publications"></span>
+<h1 id="publications">Selected Publications</h1>
+
+<!-- ===== PUBLICATIONS ===== -->
+<span class="anchor" id="publications"></span>
 <h1 id="publications">Publications</h1>
 
 <p>(* denotes corresponding author; # denotes equal contribution; IF = Impact Factor)</p>
-
-<h2 id="journal-articles">Journal of Computational Physics (JCP)</h2>
 
 <ol>
   <li>Changming Guo, <strong>Bao-Shan Wang</strong>#, Wai Sun Don#, &amp; Yuanyang Qiao#. <a href="https://doi.org/10.1016/j.jcp.2026.115049">High-order physical-constraints-preserving velocity-consistent schemes for compressible multicomponent five-equation model with the Mie-Gruneisen equation of state</a>. <em>Journal of Computational Physics</em>, 2026, 563, 115049. (IF: 3.8)</li>
@@ -395,35 +397,11 @@ redirect_from:
 
   <li>Wai Sun Don#, Run Li#, <strong>Bao-Shan Wang</strong>#, &amp; Yinghua Wang#. <a href="https://doi.org/10.1016/j.jcp.2021.110724">A novel and robust scale-invariant WENO scheme for hyperbolic conservation laws</a>. <em>Journal of Computational Physics</em>, 2022, 448, 110724. (IF: 4.645)</li>
 
-  <li><strong>Bao-Shan Wang</strong>, Peng Li, Zhen Gao, &amp; Wai Sun Don*. <a href="https://doi.org/10.1016/j.jcp.2018.07.052">An improved fifth order alternative WENO-Z finite difference scheme for hyperbolic conservation laws</a>. <em>Journal of Computational Physics</em>, 2018, 374, 469–477. (IF: 2.845)</li>
-</ol>
-
-<h2 id="siam">SIAM Journal on Scientific Computing (SISC)</h2>
-
-<ol>
   <li><strong>Bao-Shan Wang</strong>, Wai Sun Don, Naveen Kumar Garg*, &amp; Alexander Kurganov. <a href="https://doi.org/10.1137/20M1327926">Fifth-order A-WENO finite difference schemes based on a new adaptive diffusion central numerical flux</a>. <em>SIAM Journal on Scientific Computing</em>, 2020, 42(6), A3932–A3956. (IF: 2.373)</li>
+
+  <li><strong>Bao-Shan Wang</strong>, Peng Li, Zhen Gao, &amp; Wai Sun Don*. <a href="https://doi.org/10.1016/j.jcp.2018.07.052">An improved fifth order alternative WENO-Z finite difference scheme for hyperbolic conservation laws</a>. <em>Journal of Computational Physics</em>, 2018, 374, 469–477. (IF: 2.845)</li>
 
   <li><strong>Bao-Shan Wang</strong>, Wai Sun Don*, Zhen Gao, Yinghua Wang, &amp; Xiao Wen. <a href="https://doi.org/10.1137/18M1166365">Hybrid Compact-WENO finite difference scheme with radial basis function based shock detection method for hyperbolic conservation laws</a>. <em>SIAM Journal on Scientific Computing</em>, 2018, 40(6), A3699–A3714. (IF: 2.31)</li>
 </ol>
 
-<h2 id="accepted">Accepted (In Press)</h2>
-
-<ol>
-  <li>Yuanyang Qiao#, Yun-Xia Liu#, <strong>Bao-Shan Wang</strong>#, &amp; Wai Sun Don#. Affine-invariant trigonometric WENO finite difference schemes for hyperbolic conservation laws. <em>Communications in Computational Physics</em>, 2025. (IF: 3.1)</li>
-</ol>
-
-<h2 id="submitted">Submitted (Under Review)</h2>
-
-<ol>
-  <li><strong>Bao-Shan Wang</strong>*. On Wave Speeds in the HLLC Riemann Solver for the Compressible Two-medium Flows. Submitted to <em>Journal of Computational Physics</em>.</li>
-
-  <li>Ya-Ru Zhao, Zhen Gao, &amp; <strong>Bao-Shan Wang</strong>*. Physical-constraints-preserving path-conservative Lax-Friedrichs schemes for non-conservative two-medium six-equation model. Submitted to <em>Journal of Computational Physics</em>. Under revision.</li>
-
-  <li>Khaled Bensayah, <strong>Bao-Shan Wang</strong>*, Jia-Hao Liu, &amp; Abdellah Hadjadj. WENO-ZKB: An improved WENO-Z+ scheme with new anti-dissipative term. Submitted to <em>Journal of Computational Physics</em>. Under revision.</li>
-
-  <li>Alex Shiu Lun Chu#, Wai Sun Don#, Leevan Ling#, &amp; <strong>Bao-Shan Wang</strong>#. Foliation structures and global flow dynamics of scalar hyperbolic conservation laws on manifolds: II. An adaptively penalized closest point embedding with a WENO finite difference scheme (AP-cp-WENO). Submitted to <em>SIAM Journal on Scientific Computing</em>.</li>
-
-  <li>Ya-Ru Zhao, Zhen Gao, <strong>Bao-Shan Wang</strong>*, &amp; Wai Sun Don. High-order physical-constraints-preserving common-weights A-WENO scheme for non-conservative five-equation model with stiffened gas EOS. Submitted to <em>Journal of Computational Physics</em>.</li>
-</ol>
-
-<p>For a complete list of publications, please visit my <a href="https://scholar.google.com/citations?user=TiPSLVsAAAAJ">Google Scholar</a> or <a href="https://www.researchgate.net/profile/Baoshan-Wang">ResearchGate</a>.</p>
+<p>For a complete list of publications, please visit my <a href="https://scholar.google.com/citations?user=TiPSLVsAAAAJ">Full Publication</a>, or <a href="https://scholar.google.com/citations?user=TiPSLVsAAAAJ">Google Scholar</a> or <a href="https://www.researchgate.net/profile/Baoshan-Wang">ResearchGate</a>, or .</p>
