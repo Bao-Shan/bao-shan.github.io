@@ -7,8 +7,8 @@
 
 # Site Settings
 title                    : "Bao-Shan Wang"
-description              : "Associate Professor, School of Mathematical Sciences, Ocean University of China | High-order Numerical Methods for Hyperbolic Conservation Laws"
-repository               : "baoshan/baoshan.github.io"
+description              : ""
+repository               : "bao-shan.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -30,7 +30,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=TiPSLVsAAAAJ"
   email            : "wbs@ouc.edu.cn"
   researchgate     : "https://www.researchgate.net/profile/Baoshan-Wang"
-  uri              : "https://baoshan.github.io"
+  uri              : "https://bao-shan.github.io"
   bitbucket        :
   codepen          :
   dribbble         :
