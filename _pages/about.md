@@ -158,8 +158,6 @@ redirect_from:
       My research focuses on high-order numerical methods for hyperbolic conservation laws, particularly WENO-type schemes, with emphasis on structure-preserving algorithms (bound-preserving, positivity-preserving, and well-balanced properties) for multi-material flows and surface PDEs.
     </p>
     <p class="home-hero__actions">
-      <a class="home-button home-button--primary" href="#publications">Publications</a>
-      <a class="home-button" href="https://scholar.google.com/citations?user=TiPSLVsAAAAJ">Google Scholar</a>
       <a class="home-button" href="./CV_Baoshan_WANG_EN.pdf">CV</a>
       <a class="home-button" href="./CV_Baoshan_WANG_CN.pdf">简历</a>
     </p>
@@ -405,4 +403,4 @@ redirect_from:
   <li><strong>Bao-Shan Wang</strong>, Wai Sun Don*, Zhen Gao, Yinghua Wang, &amp; Xiao Wen. <a href="https://doi.org/10.1137/18M1166365">Hybrid Compact-WENO finite difference scheme with radial basis function based shock detection method for hyperbolic conservation laws</a>. <em>SIAM Journal on Scientific Computing</em>, 2018, 40(6), A3699–A3714. (IF: 2.31)</li>
 </ol>
 
-<p>For a complete list of publications, please visit my <a href="./publications">Full Publications</a>, or <a href="https://scholar.google.com/citations?user=TiPSLVsAAAAJ">Google Scholar</a> or <a href="https://www.researchgate.net/profile/Baoshan-Wang">ResearchGate</a>, or .</p>
+<p>For a complete list of publications, please visit my CV, <a href="https://scholar.google.com/citations?user=TiPSLVsAAAAJ">Google Scholar</a>, <a href="https://www.researchgate.net/profile/Baoshan-Wang">ResearchGate</a>, or <a href="https://orcid.org/0009-0007-8744-0648">ORCID</a>.</p>
