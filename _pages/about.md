@@ -149,8 +149,9 @@ redirect_from:
 </style>
 
 <!-- ===== HERO SECTION ===== -->
+<span class="anchor" id="about-me"></span>
 <section class="home-hero">
-  <div class="home-hero__text"  id="about-me">
+  <div class="home-hero__text">
     <p class="home-hero__eyebrow">High-Order Numerical Methods | Hyperbolic Conservation Laws | WENO Schemes</p>
     <h1>Bao-Shan Wang</h1>
     <p class="home-hero__lead">Associate Professor at Ocean University of China.</p>
