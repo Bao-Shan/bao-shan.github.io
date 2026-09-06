@@ -160,7 +160,8 @@ redirect_from:
     <p class="home-hero__actions">
       <a class="home-button home-button--primary" href="#publications">Publications</a>
       <a class="home-button" href="https://scholar.google.com/citations?user=TiPSLVsAAAAJ">Google Scholar</a>
-      <a class="home-button" href="./CV_Baoshan_WANG.pdf">CV</a>
+      <a class="home-button" href="./CV_Baoshan_WANG_EN.pdf">CV</a>
+      <a class="home-button" href="./CV_Baoshan_WANG_CN.pdf">简历</a>
     </p>
   </div>
   <div class="home-hero__image">
