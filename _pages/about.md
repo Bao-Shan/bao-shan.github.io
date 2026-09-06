@@ -196,7 +196,7 @@ redirect_from:
 </div>
 
 <!-- ===== APPOINTMENTS ===== -->
-<span class="anchor" id="appointments"></span>
+<span class="anchor" id="experience"></span>
 <h1 id="appointments">Appointments</h1>
 
 <div class="academic-timeline">
