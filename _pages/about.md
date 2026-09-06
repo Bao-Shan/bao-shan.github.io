@@ -203,15 +203,15 @@ redirect_from:
   <article class="academic-timeline__item">
     <div class="academic-timeline__date">Sep 2024 – Present</div>
     <div class="academic-timeline__content">
-      <h3>Associate Professor, Master's Supervisor</h3>
-      <p class="academic-timeline__institution">School of Mathematical Sciences, Ocean University of China <span>Qingdao, China</span></p>
+      <h3>Associate Professor</h3>
+      <p class="academic-timeline__institution">School of Mathematical Sciences, Ocean University of China, Qingdao, China</p>
     </div>
   </article>
   <article class="academic-timeline__item">
     <div class="academic-timeline__date">Aug 2022 – Sep 2024</div>
     <div class="academic-timeline__content">
       <h3>Postdoctoral Researcher</h3>
-      <p class="academic-timeline__institution">School of Mathematical Sciences, Ocean University of China <span>Qingdao, China</span></p>
+      <p class="academic-timeline__institution">School of Mathematical Sciences, Ocean University of China, Qingdao, China</p>
       <p>Supervisor: Prof. Zhen Gao.</p>
       <p>Research on high-order physical-constraints-preserving AWENO schemes for multi-material flows.</p>
     </div>
@@ -268,15 +268,39 @@ redirect_from:
     <div>
       <h3>Visiting Professor</h3>
       <p><strong>Pohang University of Science and Technology (POSTECH)</strong> | Department of Mathematics</p>
-      <p>Hosts: Prof. Jae-Hun Jung (Dean of Natural Sciences) &amp; Dr. Jiaxi Gu.</p>
+      <p>Hosts: Prof. Jae-Hun Jung &amp; Dr. Jiaxi Gu.</p>
     </div>
   </article>
   <article class="visiting-list__item">
-    <p class="visiting-list__date">Nov 2023 – May 2024</p>
+    <p class="visiting-list__date">Nov 2024 / Nov 2025</p>
     <div>
       <h3>Visiting Scholar</h3>
-      <p><strong>Southern University of Science and Technology (SUSTech)</strong> | Shenzhen, China</p>
-      <p>Host: Prof. Alexander Kurganov (Chair Professor).</p>
+      <p><strong>Hong Kong Baptist University</strong> | Department of Mathematics</p>
+      <p>Hosts: Prof. Leevan Ling (Department Head) &amp; Prof. Wai Sun Don.</p>
+    </div>
+  </article>
+  <article class="visiting-list__item">
+    <p class="visiting-list__date">May 2024</p>
+    <div>
+      <h3>Visiting Scholar</h3>
+      <p><strong>Hong Kong University of Science and Technology</strong> | Department of Mathematics</p>
+      <p>Host: Prof. Zhichao Peng.</p>
+    </div>
+  </article>
+  <article class="visiting-list__item">
+    <p class="visiting-list__date">Mar 2024 – May 2024</p>
+    <div>
+      <h3>Visiting Scholar</h3>
+      <p><strong>Southern University of Science and Technology</strong> | Department of Mathematics</p>
+      <p>Host: Prof. Alexander Kurganov.</p>
+    </div>
+  </article>
+  <article class="visiting-list__item">
+    <p class="visiting-list__date">Oct 2023 – Jan 2024</p>
+    <div>
+      <h3>Visiting Scholar</h3>
+      <p><strong>Hong Kong Baptist University</strong> | Department of Mathematics</p>
+      <p>Hosts: Prof. Leevan Ling (Department Head) &amp; Prof. Wai Sun Don.</p>
     </div>
   </article>
 </div>
