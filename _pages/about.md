@@ -153,7 +153,7 @@ redirect_from:
   <div class="home-hero__text">
     <p class="home-hero__eyebrow">High-Order Numerical Methods | Hyperbolic Conservation Laws | WENO Schemes</p>
     <h1>Bao-Shan Wang</h1>
-    <p class="home-hero__lead">Associate Professor (Youth Talent Program) at Ocean University of China.</p>
+    <p class="home-hero__lead">Associate Professor at Ocean University of China.</p>
     <p>
       My research focuses on high-order numerical methods for hyperbolic conservation laws, particularly WENO-type schemes, with emphasis on structure-preserving algorithms (bound-preserving, positivity-preserving, and well-balanced properties) for multi-material flows and surface PDEs.
     </p>
@@ -172,7 +172,7 @@ redirect_from:
 <span class="anchor" id="about-me"></span>
 <h1 id="about-me">About Me</h1>
 
-<p>I am an Associate Professor (Youth Talent Program) and Master's Supervisor at the School of Mathematical Sciences, Ocean University of China. I received my Ph.D. in Computational Mathematics from the same university in 2022, under the supervision of Prof. Wai Sun Don.</p>
+<p>I am an Associate Professor and Master's Supervisor at the School of Mathematical Sciences, Ocean University of China. I received my Ph.D. in Computational Mathematics from the same university in 2022, under the supervision of Prof. Wai Sun Don.</p>
 
 <p>My research spans high-order finite difference and finite volume WENO schemes, affine-invariant WENO operators, physical-constraints-preserving schemes for multi-material flows, and hyperbolic conservation laws on manifolds via the time-continuous embedding method.</p>
 
