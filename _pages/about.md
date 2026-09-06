@@ -348,21 +348,21 @@ redirect_from:
   <article class="academic-timeline__item">
     <div class="academic-timeline__date">2024–2026</div>
     <div class="academic-timeline__content">
-      <h3>NSFC Youth Program (PI, RMB 300,000)</h3>
+      <h3>NSFC (PI, RMB 300,000)</h3>
       <p class="academic-timeline__institution">Time-Continuous Closest Point Method for Hyperbolic Conservation Laws on Manifolds</p>
     </div>
   </article>
   <article class="academic-timeline__item">
     <div class="academic-timeline__date">2025–2027</div>
     <div class="academic-timeline__content">
-      <h3>OUC Youth Talent Program Start-up Fund (PI, RMB 300,000)</h3>
+      <h3>Startup Fund from OUC (PI, RMB 300,000)</h3>
       <p class="academic-timeline__institution">High-Order Physical-Constraints-Preserving Numerical Methods for Multi-Material Flow Models under Extreme Conditions</p>
     </div>
   </article>
   <article class="academic-timeline__item">
     <div class="academic-timeline__date">2026–2028</div>
     <div class="academic-timeline__content">
-      <h3>Shandong Higher Education Youth Innovation Team (PI)</h3>
+      <h3>Shandong Provincial Qingchuang Science and Technology Project (PI)</h3>
       <p class="academic-timeline__institution">Physical-Constraints-Preserving Numerical Methods for Multi-Material Flow Models</p>
     </div>
   </article>
