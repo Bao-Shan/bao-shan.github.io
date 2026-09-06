@@ -403,4 +403,4 @@ redirect_from:
   <li><strong>Bao-Shan Wang</strong>, Wai Sun Don*, Zhen Gao, Yinghua Wang, &amp; Xiao Wen. <a href="https://doi.org/10.1137/18M1166365">Hybrid Compact-WENO finite difference scheme with radial basis function based shock detection method for hyperbolic conservation laws</a>. <em>SIAM Journal on Scientific Computing</em>, 2018, 40(6), A3699–A3714. (IF: 2.31)</li>
 </ol>
 
-<p>For a complete list of publications, please visit my CV, <a href="https://scholar.google.com/citations?user=TiPSLVsAAAAJ">Google Scholar</a>, <a href="https://www.researchgate.net/profile/Baoshan-Wang">ResearchGate</a>, or <a href="https://orcid.org/0009-0007-8744-0648">ORCID</a>.</p>
+<p>For a complete list of publications, please visit my <a href="#about-me">CV</a>, <a href="https://scholar.google.com/citations?user=TiPSLVsAAAAJ">Google Scholar</a>, <a href="https://www.researchgate.net/profile/Baoshan-Wang">ResearchGate</a>, or <a href="https://orcid.org/0009-0007-8744-0648">ORCID</a>.</p>
