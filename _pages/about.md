@@ -333,7 +333,7 @@ redirect_from:
 <ul>
   <li><strong>Shandong Provincial Excellent Doctoral Dissertation</strong> (2023).</li>
   <li><strong>National Scholarship for Doctoral Students</strong> (2021).</li>
-  <li><strong>Outstanding Graduate Student of the Year</strong>, Ocean University of China (Top 10, 2021).</li>
+  <li><strong>Outstanding Graduate Students of Ocean University of China (Top 10, 2021).</li>
   <li><strong>Shandong Provincial Excellent Master's Thesis</strong> (2019).</li>
   <li><strong>National Scholarship for Master's Students</strong> (2017).</li>
   <li><strong>National First Prize</strong>, Postgraduate Mathematical Contest in Modeling (2016).</li>
