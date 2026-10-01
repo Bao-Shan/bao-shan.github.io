@@ -421,9 +421,11 @@ redirect_from:
 <p>(* denotes corresponding author; # denotes equal contribution; IF = Impact Factor)</p>
 
 <ol>
-  <li>Changming Guo#, <strong>Bao-Shan Wang</strong>#, Wai Sun Don#, &amp; Yuanyang Qiao#. <a href="https://doi.org/10.1016/j.jcp.2026.115049">High-order physical-constraints-preserving velocity-consistent schemes for compressible multicomponent five-equation model with the Mie-Gruneisen equation of state</a>. <em>Journal of Computational Physics</em>, 2026, 563, 115049. (IF: 3.8)</li>
+  <li>Khaled Bensayah, <strong>Bao-Shan Wang</strong>*, Jia-Hao Liu, &amp; Abdellah Hadjadj. <a href="https://doi.org/10.1016/j.jcp.2026.115434">WENO-ZKB: An improved WENO-Z+ scheme with new anti-dissipative term</a>. <em>Journal of Computational Physics</em>, 2026, 569, 115434. (IF: 3.9)</li>
+  
+  <li>Changming Guo#, <strong>Bao-Shan Wang</strong>#, Wai Sun Don#, &amp; Yuanyang Qiao*#. <a href="https://doi.org/10.1016/j.jcp.2026.115049">High-order physical-constraints-preserving velocity-consistent schemes for compressible multicomponent five-equation model with the Mie-Grüneisen equation of state</a>. <em>Journal of Computational Physics</em>, 2026, 563, 115049. (IF: 3.9)</li>
 
-  <li>Ya-Ru Zhao, Zhen Gao, &amp; <strong>Bao-Shan Wang</strong>*. <a href="https://doi.org/10.1016/j.jcp.2025.114409">Fifth-order equilibrium-preserving path-conservative characteristic-wise AWENO scheme for one-fluid two-temperature Euler model</a>. <em>Journal of Computational Physics</em>, 2026, 544, 114409. (IF: 3.8)</li>
+  <li>Ya-Ru Zhao, Zhen Gao, &amp; <strong>Bao-Shan Wang</strong>*. <a href="https://doi.org/10.1016/j.jcp.2025.114409">Fifth-order equilibrium-preserving path-conservative characteristic-wise AWENO scheme for one-fluid two-temperature Euler model</a>. <em>Journal of Computational Physics</em>, 2026, 544, 114409. (IF: 3.9)</li>
 
   <li>Changming Guo, Yuanyang Qiao, Wai Sun Don, &amp; <strong>Bao-Shan Wang</strong>*. <a href="https://doi.org/10.1016/j.jcp.2025.114149">A family of bound-preserving velocity-consistent schemes for two-medium γ-based model with stiffened gas</a>. <em>Journal of Computational Physics</em>, 2025, 538, 114149. (IF: 3.8)</li>
 
