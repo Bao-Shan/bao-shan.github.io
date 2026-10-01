@@ -411,7 +411,7 @@ redirect_from:
 
 <ul>
   <li><strong>Programming:</strong> MATLAB, Fortran, LaTeX, Linux.</li>
-  <li><strong>WeChat public account</strong> "台劳公式" (3,100+ followers).</li>
+  <li><strong>WeChat public account</strong> "台劳公式" (3,200+ followers).</li>
 </ul>
 
 <!-- ===== PUBLICATIONS ===== -->
@@ -421,7 +421,7 @@ redirect_from:
 <p>(* denotes corresponding author; # denotes equal contribution; IF = Impact Factor)</p>
 
 <ol>
-  <li>Khaled Bensayah, <strong>Bao-Shan Wang</strong>*, Jia-Hao Liu, &amp; Abdellah Hadjadj. <a href="https://doi.org/10.1016/j.jcp.2026.115434">WENO-ZKB: An improved WENO-Z+ scheme with new anti-dissipative term</a>. <em>Journal of Computational Physics</em>, 2026, 569, 115434. (IF: 3.9)</li>
+  <li>Khaled Bensayah, <strong>Bao-Shan Wang</strong>*, Jia-Hao Liu, &amp; Abdellah Hadjadj. <a href="https://doi.org/10.1016/j.jcp.2026.115434">WENO-ZKB: An improved WENO-Z+ scheme with new anti-dissipative term</a>. <em>Journal of Computational Physics</em>, 2027, 569, 115434. (IF: 3.9)</li>
   
   <li>Changming Guo#, <strong>Bao-Shan Wang</strong>#, Wai Sun Don#, &amp; Yuanyang Qiao*#. <a href="https://doi.org/10.1016/j.jcp.2026.115049">High-order physical-constraints-preserving velocity-consistent schemes for compressible multicomponent five-equation model with the Mie-Grüneisen equation of state</a>. <em>Journal of Computational Physics</em>, 2026, 563, 115049. (IF: 3.9)</li>
 
