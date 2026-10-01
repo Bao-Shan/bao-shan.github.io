@@ -429,7 +429,7 @@ redirect_from:
 
   <li>Changming Guo, Yuanyang Qiao, Wai Sun Don, &amp; <strong>Bao-Shan Wang</strong>*. <a href="https://doi.org/10.1016/j.jcp.2025.114149">A family of bound-preserving velocity-consistent schemes for two-medium γ-based model with stiffened gas</a>. <em>Journal of Computational Physics</em>, 2025, 538, 114149. (IF: 3.8)</li>
 
-  <li>Wai Sun Don#, Run Li#, <strong>Bao-Shan Wang</strong>#, &amp; Yinghua Wang#. <a href="https://doi.org/10.1016/j.jcp.2021.110724">A novel and robust scale-invariant WENO scheme for hyperbolic conservation laws</a>. <em>Journal of Computational Physics</em>, 2022, 448, 110724. (IF: 4.645)</li>
+  <li>Wai Sun Don#, Run Li#, <strong>Bao-Shan Wang</strong>#, &amp; Yinghua Wang*#. <a href="https://doi.org/10.1016/j.jcp.2021.110724">A novel and robust scale-invariant WENO scheme for hyperbolic conservation laws</a>. <em>Journal of Computational Physics</em>, 2022, 448, 110724. (IF: 4.645)</li>
 
   <li><strong>Bao-Shan Wang</strong>, Wai Sun Don, Naveen Kumar Garg*, &amp; Alexander Kurganov. <a href="https://doi.org/10.1137/20M1327926">Fifth-order A-WENO finite difference schemes based on a new adaptive diffusion central numerical flux</a>. <em>SIAM Journal on Scientific Computing</em>, 2020, 42(6), A3932–A3956. (IF: 2.373)</li>
 
