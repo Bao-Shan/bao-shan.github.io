@@ -225,7 +225,7 @@ redirect_from:
     <div class="academic-timeline__date">2023–2024</div>
     <div class="academic-timeline__content">
       <h3>China Postdoctoral Science Foundation (PI, RMB 80,000)</h3>
-      <p class="academic-timeline__institution">Bound-preserving limiters for the two-medium six-equation model with Mie-Gruneisen EOS</p>
+      <p class="academic-timeline__institution">Bound-preserving limiters for the two-medium six-equation model with Mie-Grüneisen EOS</p>
     </div>
   </article>
 </div>
