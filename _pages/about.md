@@ -448,7 +448,9 @@ redirect_from:
 <ol>
 <li>Wai Sun Don &amp; <strong>Bao-Shan Wang</strong>. <a href="https://www.researchgate.net/publication/382719342">Lecture on the High-Order WENO Scheme for Hyperbolic Conservation Laws (HKBU edition)</a>.</li>
 
-<li>王保山. <a href="./MATLAB_Book.pdf">我的MATLAB报告</a>.</li>
+<li>Wai Sun Don &amp; <strong>Bao-Shan Wang</strong>. Wai Sun Don \& {\bf Bao-Shan Wang}. Comprehensive Lecture Notes on Hyperbolic Conservation Laws on Manifolds.</li>
+
+<li>王保山. <a href="./MATLAB_REP.pdf">我的MATLAB报告</a>.</li>
 </ol>
 <p></p>
 
