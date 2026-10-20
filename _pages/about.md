@@ -354,6 +354,7 @@ redirect_from:
 <h1 id="selected-presentations">Selected Invited Talks</h1>
 
 <ul>
+  <li>"Spatially Adaptive-Order Bound-Preserving Velocity-Consistent AWENO Schemes for Compressible Two-Medium Flows," <a href="https://math.sustech.edu.cn/conference/13703.html?lang=en">High-Order and Adaptive Schemes for Nonlinear Hyperbolic PDEs</a>, SUSTech, Shenzhen, Oct 2026</li>
   <li>"Foliation Structures and Global Flow Dynamics of Scalar Hyperbolic Conservation Laws on Manifolds," <a href="#">EASIAM 2026</a>, Jeju, South Korea, Aug 2026.</li>
   <li>"High-Order Physical-Constraints-Preserving Velocity-Consistent Schemes for Compressible Multicomponent Five-Equation Model with the Mie-Gruneisen Equation of State," Kunming University of Science and Technology, Aug 2026.</li>
   <li>"A Family of Bound-Preserving Velocity-Consistent Schemes for Two-Medium γ-Based Model with Stiffened Gas," <a href="#">CSIAM 2025 Annual Meeting</a>, Changsha, China, Oct 2025.</li>
@@ -421,7 +422,7 @@ redirect_from:
 <p>(* denotes corresponding author; # denotes equal contribution; IF = Impact Factor)</p>
 
 <ol>
-  <li><strong>Bao-Shan Wang</strong>*. <a href="#">On Wave Speeds in the HLLC Riemann Solver for the Compressible Two-medium Flows with General Equations of State</a>. <em>Journal of Computational Physics</em>, 2026, accepted for publication. (IF: 3.9)</li>
+  <li><strong>Bao-Shan Wang</strong>*. <a href="https://doi.org/10.1016/j.jcp.2026.115501">On Wave Speeds in the HLLC Riemann Solver for the Compressible Two-medium Flows with General Equations of State</a>. <em>Journal of Computational Physics</em>, 2026, 115501, accepted for publication. (IF: 3.9)</li>
   
   <li>Khaled Bensayah, <strong>Bao-Shan Wang</strong>*, Jia-Hao Liu, &amp; Abdellah Hadjadj. <a href="https://doi.org/10.1016/j.jcp.2026.115434">WENO-ZKB: An improved WENO-Z+ scheme with new anti-dissipative term</a>. <em>Journal of Computational Physics</em>, 2027, 569, 115434. (IF: 3.9)</li>
   
