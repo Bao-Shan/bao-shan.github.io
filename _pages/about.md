@@ -1,4 +1,4 @@
----
+<img width="571" height="339" alt="image" src="https://github.com/user-attachments/assets/017d7aae-44f5-4db1-b8ea-022b55c9f196" />---
 permalink: /
 title: ""
 excerpt: ""
@@ -422,7 +422,7 @@ redirect_from:
 <p>(* denotes corresponding author; # denotes equal contribution; IF = Impact Factor)</p>
 
 <ol>
-  <li><strong>Bao-Shan Wang</strong>*. <a href="https://doi.org/10.1016/j.jcp.2026.115501">On wave speeds in the HLLC Riemann solver for the compressible two-medium flows with general equations of state</a>. <em>Journal of Computational Physics</em>, 2026, 115501, accepted for publication. (IF: 3.9)</li>
+  <li><strong>Bao-Shan Wang</strong>*. <a href="https://doi.org/10.1016/j.jcp.2026.115501">On wave speeds in the HLLC Riemann solver for the compressible two-medium flows with general equations of state</a>. <em>Journal of Computational Physics</em>, 2027, 569(2), 115501. (IF: 3.9)</li>
   
   <li>Khaled Bensayah, <strong>Bao-Shan Wang</strong>*, Jia-Hao Liu, &amp; Abdellah Hadjadj. <a href="https://doi.org/10.1016/j.jcp.2026.115434">WENO-ZKB: An improved WENO-Z+ scheme with new anti-dissipative term</a>. <em>Journal of Computational Physics</em>, 2027, 569, 115434. (IF: 3.9)</li>
   
