@@ -422,11 +422,13 @@ redirect_from:
 <p>(* denotes corresponding author; # denotes equal contribution; IF = Impact Factor)</p>
 
 <ol>
+  <li>Ya-Ru Zhao, Zhen Gao, <strong>Bao-Shan Wang</strong>*, &amp; Wai Sun Don. <a href="https://doi.org/10.1016/j.jcp.2026.115530">High-order physical-constraints-preserving common-weights A-WENO scheme for non-conservative five-equation model with stiffened gas EOS</a>. <em>Journal of Computational Physics</em>, 2027, 115530. (IF: 3.9)</li>
+  
   <li><strong>Bao-Shan Wang</strong>*. <a href="https://doi.org/10.1016/j.jcp.2026.115501">On wave speeds in the HLLC Riemann solver for the compressible two-medium flows with general equations of state</a>. <em>Journal of Computational Physics</em>, 2027, 569(2), 115501. (IF: 3.9)</li>
   
   <li>Khaled Bensayah, <strong>Bao-Shan Wang</strong>*, Jia-Hao Liu, &amp; Abdellah Hadjadj. <a href="https://doi.org/10.1016/j.jcp.2026.115434">WENO-ZKB: An improved WENO-Z+ scheme with new anti-dissipative term</a>. <em>Journal of Computational Physics</em>, 2027, 569(1), 115434. (IF: 3.9)</li>
   
-  <li>Changming Guo#, <strong>Bao-Shan Wang</strong>#, Wai Sun Don#, &amp; Yuanyang Qiao*#. <a href="https://doi.org/10.1016/j.jcp.2026.115049">High-order physical-constraints-preserving velocity-consistent schemes for compressible multicomponent five-equation model with the Mie-Grüneisen equation of state</a>. <em>Journal of Computational Physics</em>, 2026, 563, 115049. (IF: 3.9)</li>
+  <li>Changming Guo#, <strong>Bao-Shan Wang</strong>#, Wai Sun Don#, Yuanyang Qiao*#. <a href="https://doi.org/10.1016/j.jcp.2026.115049">High-order physical-constraints-preserving velocity-consistent schemes for compressible multicomponent five-equation model with the Mie-Grüneisen equation of state</a>. <em>Journal of Computational Physics</em>, 2026, 563, 115049. (IF: 3.9)</li>
 
   <li>Ya-Ru Zhao, Zhen Gao, &amp; <strong>Bao-Shan Wang</strong>*. <a href="https://doi.org/10.1016/j.jcp.2025.114409">Fifth-order equilibrium-preserving path-conservative characteristic-wise AWENO scheme for one-fluid two-temperature Euler model</a>. <em>Journal of Computational Physics</em>, 2026, 544, 114409. (IF: 3.9)</li>
 
